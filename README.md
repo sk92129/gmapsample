@@ -1,16 +1,10 @@
-# gmapsample
+# google map sample for flutter ios and android
 
 A new Flutter project.
 
-## Getting Started
+## Screen shots
 
-This project is a starting point for a Flutter application.
+<img width="815" height="837" alt="image" src="https://github.com/user-attachments/assets/6a1cc24b-f239-4dde-9076-f74795fdd1aa" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
